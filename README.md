@@ -10,6 +10,8 @@
 - 💬 Ask me about **Nextjs, Spring, Docker, Kubernetes, Echo, gRPC, graphQL**
 
 - 📫 How to reach me **tranxuanphong26525@gmail.com**
+- 📄 Download my CV by click [here](
+https://raw.githubusercontent.com/TranXuanPhong25/TranXuanPhong25/refs/heads/main/TranXuanPhong_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
