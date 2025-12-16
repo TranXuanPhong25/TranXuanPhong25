@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Shopiew project](https://github.com/TranXuanPhong25/e-com)
 
-- 🌱 I’m currently learning **Nextjs, Microservices (Echo-Go, Spring-Java), Docker, Kubernetes**
+- 🌱 I have mastered my incredible skill in **Nextjs, Microservices (Echo-Go, Spring-Java), Docker, Kubernetes, Pytorch, Tensorflow, Langchain, Langgraph, AWS, Nodejs, Expressjs, Kafka, RabbitMQ, OpenCV, Github, Keyboard, Waifu detection**
 
 - 👨‍💻 All of my projects are available at [github.com/TranXuanPhong25](github.com/TranXuanPhong25)
 
